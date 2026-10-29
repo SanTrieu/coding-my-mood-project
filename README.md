@@ -68,6 +68,7 @@ The Bass section uses a repeating 4-beat pattern with lower notes, including C3 
 
 The New Drums section uses TunePad's 808 Drumkit to create a 4-beat percussion pattern. It adds rhythmic energy to the composition and helps combine the Vietnamese folk-inspired melody with a more modern musical atmosphere.
 
+## Screenshot
 
 ## Features
 
