@@ -135,14 +135,19 @@ I started this project to create happy music inspired by Vietnamese traditional 
 One limitation is that the Vietnamese folk influence is not as clear as I originally wanted because the composition mainly uses piano and electronic sounds. The melody could also be more catchy and energetic. In the future, I would like to explore more  more memorable and energetic, try different instruments, and improve the combination of melody, bass, and drums.
 
 ## Resources and References
-- Horn, M., West, M., & Roberts, C. (2022). Introduction to digital music with Python learning
-music with code. Routledge. https://www.taylorfrancis.com/books/9781003033240
-- Phạm Duy. (1968). Folk songs of Viet Nam [Album]. Folkways Records. https://folkways.si.edu/pham-duy/folk-songs-of-vietnam/world/music/album/smithsonian
-- Python Software Foundation. (n.d.). Python. https://www.python.org/
-- TunePad Quick Start Guide. (2026). Learn TunePad. https://learn.tunepad.com
-- TunePad. (2020). TunePad. https://tunepad.com
-- TunePad Documentation. (2026). Learn TunePad. https://learn.tunepad.com/docs/?
+## Resources and References
 
+Horn, M. S., West, M., & Roberts, C. (2022). *Introduction to digital music with Python programming: Learning music with code*. Routledge. https://doi.org/10.4324/9781003033240
+
+Phạm Duy. (1968). *Folk songs of Viet Nam* [Album]. Folkways Records. https://folkways.si.edu/pham-duy/folk-songs-of-vietnam/world/music/album/smithsonian
+
+Python Software Foundation. (n.d.). *Python*. https://www.python.org/
+
+TunePad. (n.d.-a). *TunePad*. https://tunepad.com/
+
+TunePad. (n.d.-b). *TunePad documentation*. Learn TunePad. https://learn.tunepad.com/docs/
+
+TunePad. (n.d.-c). *TunePad quick start guide*. Learn TunePad. https://learn.tunepad.com/
 ## Project Creator
 
 Dinh Ton San Trieu
