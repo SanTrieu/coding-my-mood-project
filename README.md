@@ -1,4 +1,5 @@
-# coding-my-mood-project
+# Exploring Vietnamese Folk-Inspired Music Through Python Coding
+
 
 # Coding My Mood
 
