@@ -135,7 +135,6 @@ I started this project to create happy music inspired by Vietnamese traditional 
 One limitation is that the Vietnamese folk influence is not as clear as I originally wanted because the composition mainly uses piano and electronic sounds. The melody could also be more catchy and energetic. In the future, I would like to explore more  more memorable and energetic, try different instruments, and improve the combination of melody, bass, and drums.
 
 ## Resources and References
-## Resources and References
 
 Horn, M. S., West, M., & Roberts, C. (2022). *Introduction to digital music with Python programming: Learning music with code*. Routledge. https://doi.org/10.4324/9781003033240
 
