@@ -117,7 +117,7 @@ The music is divided into five TunePad cells: Intro, Melody, Chord, Bass, and Ne
 
 ## Run the Project
 
-Open the project in TunePad: [Insert your public TunePad link].
+Open the project in TunePad: https://tunepad.com/project/135130
 
 Allow the project and its musical instruments to load.
 
