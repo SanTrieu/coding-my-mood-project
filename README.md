@@ -125,7 +125,6 @@ Use the playback controls in TunePad to listen to the composition.
 
 Explore the individual musical sections to understand how the melody, chords, bass, and drums are programmed.
 
-Playback instructions: [Confirm whether your final project plays all tracks together or requires selecting individual tracks.]
 
 ## Project Development
 
